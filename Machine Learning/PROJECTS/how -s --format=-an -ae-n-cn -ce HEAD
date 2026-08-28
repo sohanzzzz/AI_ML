@@ -1,0 +1,51 @@
+[33mcommit 72520029792e85f9873f59a899a522537fac216e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Sohan Roy <WIP1user172@rpsconsulting.in>
+Date:   2026-04-18
+
+    Initial commit
+
+ .../employee_turnover-checkpoint.csv               |  1351 [32m++[m
+ .../.ipynb_checkpoints/prediction-checkpoint.ipynb |     6 [32m+[m
+  Employee turnover/employee_turnover.csv           |  1351 [32m++[m
+  Employee turnover/prediction.ipynb                |  2344 [32m++++[m
+ .../.ipynb_checkpoints/ShopSmart-checkpoint.ipynb  |     6 [32m+[m
+ .../.ipynb_checkpoints/Untitled-checkpoint.ipynb   |     6 [32m+[m
+ .../shop_smart_ecommerce-checkpoint.csv            | 12331 [32m+++++++++++++++++++[m
+ E-Commerce ShopSmart/ShopSmart.ipynb               |  1690 [32m+++[m
+ E-Commerce ShopSmart/Untitled.ipynb                |  1519 [32m+++[m
+ E-Commerce ShopSmart/shop_smart_ecommerce.csv      | 12331 [32m+++++++++++++++++++[m
+ .../.ipynb_checkpoints/Novagen-checkpoint.ipynb    |     6 [32m+[m
+ .../novagen_dataset-checkpoint.csv                 |  9550 [32m++++++++++++++[m
+ Health risk pred/Novagen.ipynb                     |   486 [32m+[m
+ Health risk pred/novagen_dataset.csv               |  9550 [32m++++++++++++++[m
+ .../credit wise-checkpoint.ipynb                   |     6 [32m+[m
+ .../loan_approval_data-checkpoint.csv              |  1001 [32m++[m
+ Loan Approval/credit wise.ipynb                    |  1372 [32m+++[m
+ Loan Approval/loan_approval_data.csv               |  1001 [32m++[m
+ .../.ipynb_checkpoints/ShopSmart-checkpoint.ipynb  |     6 [32m+[m
+ .../.ipynb_checkpoints/Untitled-checkpoint.ipynb   |     6 [32m+[m
+ .../shop_smart_ecommerce-checkpoint.csv            | 12331 [32m+++++++++++++++++++[m
+ Project/E-Commerce ShopSmart/ShopSmart.ipynb       |  1690 [32m+++[m
+ Project/E-Commerce ShopSmart/Untitled.ipynb        |  1519 [32m+++[m
+ .../E-Commerce ShopSmart/shop_smart_ecommerce.csv  | 12331 [32m+++++++++++++++++++[m
+ .../employee_turnover-checkpoint.csv               |  1351 [32m++[m
+ .../.ipynb_checkpoints/prediction-checkpoint.ipynb |     6 [32m+[m
+ Project/Employee turnover/employee_turnover.csv    |  1351 [32m++[m
+ Project/Employee turnover/prediction.ipynb         |  2344 [32m++++[m
+ .../.ipynb_checkpoints/Novagen-checkpoint.ipynb    |     6 [32m+[m
+ .../novagen_dataset-checkpoint.csv                 |  9550 [32m++++++++++++++[m
+ Project/Health risk pred/Novagen.ipynb             |   486 [32m+[m
+ Project/Health risk pred/novagen_dataset.csv       |  9550 [32m++++++++++++++[m
+ .../credit wise-checkpoint.ipynb                   |     6 [32m+[m
+ .../loan_approval_data-checkpoint.csv              |  1001 [32m++[m
+ Project/Loan Approval/credit wise.ipynb            |  1372 [32m+++[m
+ Project/Loan Approval/loan_approval_data.csv       |  1001 [32m++[m
+ .../.ipynb_checkpoints/smartcart-checkpoint.ipynb  |     6 [32m+[m
+ .../smartcart_customers-checkpoint.csv             |  2241 [32m++++[m
+ Project/SmartCart/smartcart.ipynb                  |  1796 [32m+++[m
+ Project/SmartCart/smartcart_customers.csv          |  2241 [32m++++[m
+ .../.ipynb_checkpoints/smartcart-checkpoint.ipynb  |     6 [32m+[m
+ .../smartcart_customers-checkpoint.csv             |  2241 [32m++++[m
+ SmartCart/smartcart.ipynb                          |  1796 [32m+++[m
+ SmartCart/smartcart_customers.csv                  |  2241 [32m++++[m
+ 44 files changed, 124382 insertions(+)
