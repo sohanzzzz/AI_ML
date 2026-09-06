@@ -1,0 +1,38 @@
+0386831 | 2026-08-30 | Add Git configuration
+40d5d58 | 2026-08-28 | Update machine learning projects
+a56aabb | 2026-08-11 | Add ANN regression
+b33f392 | 2026-08-01 | Add ANN regression data
+d1f8e3b | 2026-06-20 | Start deep learning work
+8022822 | 2026-03-09 | Add SmartCart project
+18e6624 | 2026-03-02 | Add isolation forest and SmartCart data
+5fa4f12 | 2026-03-01 | Add anomaly detection
+4f90763 | 2026-02-27 | Add PCA dimensionality reduction
+300ce7e | 2026-02-23 | Add DBSCAN clustering
+5cef86a | 2026-02-22 | Add hierarchical clustering
+9309f58 | 2026-02-21 | Add KMeans clustering
+5a7379c | 2026-02-19 | Add SVC and Health Risk project
+dc67fad | 2026-02-17 | Add XGBoost and voting classifiers
+eee2faf | 2026-02-16 | Add boosting algorithms
+2c7a58a | 2026-02-13 | Add random forest
+9073786 | 2026-02-12 | Add support vector regression
+6390e0e | 2026-02-08 | Continue ShopSmart project
+992bdc0 | 2026-02-07 | Start ShopSmart project
+40af450 | 2026-02-06 | Add decision tree regression
+76c7a51 | 2026-02-03 | Add decision tree classification
+b4bb52e | 2026-01-30 | Add Loan Approval project
+7957fa2 | 2026-01-26 | Add machine learning implementations
+56e5141 | 2026-01-21 | Add classification algorithms and probability work
+cb1ee3f | 2026-01-15 | Add regression and Employee Turnover project
+3a5bfd2 | 2026-01-14 | Add linear regression
+de6fe78 | 2026-01-10 | Start supervised machine learning
+498f7a3 | 2026-01-06 | Add Seaborn tutorial
+47d20d4 | 2026-01-03 | Add Matplotlib tutorial
+01249b3 | 2026-01-01 | Add Matplotlib plotting work
+33281e8 | 2025-12-31 | Add web scraping and Matplotlib work
+1abaa17 | 2025-12-30 | Add data collection and analysis work
+ebc00e6 | 2025-12-18 | Add Pandas assignments and datasets
+b8eda17 | 2025-12-16 | Add data processing exercises
+bc82aa1 | 2025-12-07 | Add data analysis dataset
+0994b12 | 2025-12-05 | Add NumPy and Pandas tutorials
+b64de1d | 2025-12-01 | Add Pandas learning exercises
+2b20b7b | 2025-11-29 | Start Python and Pandas learning
